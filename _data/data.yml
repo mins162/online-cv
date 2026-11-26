@@ -109,11 +109,13 @@ experiences:
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Technical Skills
+    title: Skills & Proficiency
 
     toolset:
       - name: Python
+        level: "85%"
       - name: C/C++
+        level: "50%"
       
 footer: >
     Designed with <i class="fas fa-heart"></i> by
